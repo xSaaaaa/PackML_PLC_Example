@@ -4,6 +4,8 @@ The purpose of this project is to serve as an example of how to setup a PLC proj
 This sample is created by Beckhoff Automation LLC., and is provided as-is under the MIT license.
 
 # Getting Started
+The [SPT-Libraries](https://github.com/Beckhoff-USA-Community/SPT-Libraries) are required for this project.
+
 Once the Repository has been cloned the user will need to install project libraries.
 
 # Build and Test
